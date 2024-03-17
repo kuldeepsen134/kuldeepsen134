@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Sen</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Stock security**
+🔭 I’m currently working on MERN Stack.
 
-- 👯 I’m looking to collaborate on **Kfry restaurant management system**
+🌱 I’m currently learning Amazon Web Services
+
+👨‍💻 All of my projects are available at https://kuldeep-portfolio.vercel.app
+
+💬 Ask me about Node.js, React, Postgresql, MongoDB Etc.
+
+📫 How to reach me https://kuldeep-portfolio.vercel.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
