@@ -1,38 +1,106 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Sen</h1>
-<h3 align="center">A Passionate Full Stack Developer | Technical Team Lead</h3>
+<h3 align="center">
+Senior Backend / Full Stack Developer • Technical Team Lead • Node.js Specialist
+</h3>
 
-🔭 I’m currently leading a team and working on **scalable full-stack applications** with MERN & modern web technologies.
-
-🌱 Currently exploring **Cloud Technologies (AWS, Docker, Kubernetes)** & **System Design**.
-
-👨‍💻 Check out my projects & portfolio: [Portfolio](https://kuldeep-portfolio.vercel.app)
-
-💬 Ask me about **Node.js, React, PostgreSQL, MongoDB, Microservices, CI/CD, and Scalable Architectures**.
-
-📫 Reach me at: [Portfolio](https://kuldeep-portfolio.vercel.app) | [LinkedIn](https://linkedin.com/in/kuldeep-sen134)
-
----
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="http://www.linkedin.com/in/kuldeepdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://fb.com/kuldeepsen134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/officialkdsen134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<p align="center">
+Building scalable, secure, and high-performance web applications 🚀
 </p>
 
 ---
 
-<h3 align="left">🚀 Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-<a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+## 👨‍💻 About Me
+
+- 🔭 **Technical Team Lead** with **4+ years of experience** in building production-grade applications  
+- ⚙️ Strong expertise in **Backend Development, APIs, System Design & Performance Optimization**
+- 🌐 Experienced in building **modern frontend UIs** and integrating them with scalable backends
+- ☁️ Hands-on with **Cloud, VPS hosting, CI/CD & deployment pipelines**
+- 💳 Integrated **Stripe payments**, subscriptions & secure transactions
+- 📈 Improved API performance by **30%** in high-traffic systems
+
+---
+
+## 🛠 Tech Stack
+
+### Backend & APIs
+- Node.js, NestJS, Express.js  
+- REST APIs, GraphQL  
+- JWT, OAuth 2.0, RBAC  
+- Microservices Architecture  
+
+### Frontend Technologies
+- React.js  
+- HTML5, CSS3  
+- Bootstrap  
+- Tailwind CSS  
+
+### Databases & ORM
+- MongoDB, PostgreSQL, MySQL  
+- Prisma, Sequelize, Mongoose  
+
+### Cloud, Hosting & DevOps
+- AWS (EC2, S3, Rekognition)  
+- Docker, CI/CD Pipelines  
+- Hostinger Cloud (VPS Hosting)  
+- Cloudflare (DNS, CDN, Security)  
+- Vercel, Netlify  
+- Heroku  
+
+### Tools
+- Git, GitHub  
+- Postman  
+- Stripe API  
+
+---
+
+## 🚀 Key Projects
+
+### 🔹 Qroffy — Social Media & Payment Platform
+- Social media & business payment platform
+- QR & face-recognition-based login using **AWS Rekognition**
+- Dual payment system with **Stripe**
+- Scalable backend with secure authentication  
+**Tech:** Node.js, Express, AWS, MongoDB, Stripe, React
+
+### 🔹 Schoolware ERP
+- Scalable backend for school management system
+- Optimized MongoDB queries & role-based permissions  
+**Tech:** Node.js, Express, MongoDB, JWT, React
+
+### 🔹 AI-Powered Social Media Dashboard
+- Integrated **OpenAI GPT-4** for sentiment analysis
+- Real-time dashboard with modern UI  
+**Tech:** Node.js, React, OpenAI API, REST APIs
+
+### 🔹 WellJanhitChemist — Online Medicine Store
+- Full-featured e-commerce backend
+- Secure payments, inventory & order management  
+**Tech:** Node.js, MongoDB, Stripe, JWT, React
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/kuldeepdeveloper" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://github.com/kuldeepsen134" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40"/>
+</a>
+<a href="https://kuldeep-portfolio.vercel.app" target="_blank">
+  🌐 Portfolio
+</a>
+</p>
+
+---
+
+## 📫 Contact
+📧 **Email:** kuldeepsen134@gmail.com  
+📍 **Location:** Indore, India  
+
+---
+
+<p align="center">
+✨ Open to Backend / Full Stack roles, Technical Leadership & High-Scale Systems ✨
 </p>
