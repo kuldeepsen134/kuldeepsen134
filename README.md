@@ -55,27 +55,7 @@ Building scalable, secure, and high-performance web applications 🚀
 
 ## 🚀 Key Projects
 
-### 🔹 Qroffy — Social Media & Payment Platform
-- Social media & business payment platform
-- QR & face-recognition-based login using **AWS Rekognition**
-- Dual payment system with **Stripe**
-- Scalable backend with secure authentication  
-**Tech:** Node.js, Express, AWS, MongoDB, Stripe, React
 
-### 🔹 Schoolware ERP
-- Scalable backend for school management system
-- Optimized MongoDB queries & role-based permissions  
-**Tech:** Node.js, Express, MongoDB, JWT, React
-
-### 🔹 AI-Powered Social Media Dashboard
-- Integrated **OpenAI GPT-4** for sentiment analysis
-- Real-time dashboard with modern UI  
-**Tech:** Node.js, React, OpenAI API, REST APIs
-
-### 🔹 WellJanhitChemist — Online Medicine Store
-- Full-featured e-commerce backend
-- Secure payments, inventory & order management  
-**Tech:** Node.js, MongoDB, Stripe, JWT, React
 
 ---
 
